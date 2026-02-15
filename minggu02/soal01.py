@@ -1,6 +1,6 @@
 def programBMI():
     try: 
-        print("Program Menghitung BMI\n")
+        print("Program Menghitung BMI")
         berat = float(input("Masukan berat badan anda (kg): ")) #dalam kilogram
         tinggi = float(input("Masukan tinggi badan anda (m): ")) #dalam meter
         
