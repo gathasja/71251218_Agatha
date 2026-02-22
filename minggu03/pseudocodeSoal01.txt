@@ -1,5 +1,5 @@
 PROGRAM cekBilanganPrima
-{program untuk menentukan apakah sebuah angka merupakan bilangan prima atau bukan}
+{program untuk menentukan apakah sebuah angka merupakan bilangan prima atau bukan} 
 
 DEKLARASI
    int angka, i 
