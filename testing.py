@@ -52,8 +52,9 @@
 # print(f"f({x}) = {hitung_f(x)}")
 
 #contoh komentar
-print("halo semua") #ini komentar untuk menjelaskan fungsi perintah
+# print("halo semua") #ini komentar untuk menjelaskan fungsi perintah
 
 #komentar 1
 #komentar 2
 #komentar 3
+
