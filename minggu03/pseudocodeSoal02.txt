@@ -9,7 +9,7 @@ DESKRIPSI
     IF a == 0 THEN
         PRINT "bukan persamaan kuadrat"
     ELSE
-        D = (b^2) - (4 * a * c) 
+        D = (b**2) - (4 * a * c) 
         IF D >= 0 THEN
             PRINT "akar real"
             IF D > 0 THEN
