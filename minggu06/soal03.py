@@ -20,8 +20,7 @@ def nilaiIps():
         
         ips = total / (jumlah * sks)
         print(f"Nilai IPS anda semester ini {ips:.2f}")
-        
+          
     except ValueError:
         print("input harus berupa angka!")
-        
 nilaiIps()
