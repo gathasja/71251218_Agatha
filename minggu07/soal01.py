@@ -1,5 +1,4 @@
 def primaTerdekat():
-    try:
         n = int(input("masukan bilangan n: "))
         if n < 2:
             return "tidak ada bilangan prima kurang dari 2"
@@ -11,7 +10,5 @@ def primaTerdekat():
                     break
             if prima:
                 return f"bilangan prima terdekat < {n} adalah {i}"          
-    except ValueError:
-        return "input harus berupa angka!"
 print(primaTerdekat())
         
