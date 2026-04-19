@@ -9,4 +9,4 @@ kata2 = input("kata kedua: ")
 if cekAnagram(kata1, kata2):
     print(f"{kata1} dan {kata2} adalah anagram")
 else:
-    print(f"{kata1} dan {kata2} bukan anagram")    
+    print(f"{kata1} dan {kata2} bukan anagram") 
