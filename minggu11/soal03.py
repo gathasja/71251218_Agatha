@@ -13,3 +13,6 @@ print(f"jumlah kata unik: {len(unik)}")
 print("kata unik: ")
 for kat in unik:
     print(kat)
+    
+    
+    
