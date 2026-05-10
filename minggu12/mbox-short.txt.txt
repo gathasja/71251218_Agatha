@@ -1,2 +1,134 @@
-{'media.berkeley.edu': 4, 'uct.ac.za': 6, 'umich.edu': 7,
-'gmail.com':1, 'caret.cam.ac.uk': 1, 'iupui.edu': 8}
+From louis@media.berkeley.edu Fri Jan  4 07:10:32 2008
+From: louis@media.berkeley.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39773
+
+From louis@media.berkeley.edu Fri Jan  4 07:25:43 2008
+From: louis@media.berkeley.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39774
+
+From louis@media.berkeley.edu Fri Jan  4 07:40:11 2008
+From: louis@media.berkeley.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39775
+
+From ray@media.berkeley.edu Sat Jan  5 12:05:32 2008
+From: ray@media.berkeley.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39798
+
+From david.horwitz@uct.ac.za Fri Jan  4 11:05:32 2008
+From: david.horwitz@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39787
+
+From david.horwitz@uct.ac.za Fri Jan  4 11:20:44 2008
+From: david.horwitz@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39788
+
+From david.horwitz@uct.ac.za Sat Jan  5 10:05:32 2008
+From: david.horwitz@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39789
+
+From david.horwitz@uct.ac.za Sat Jan  5 10:20:11 2008
+From: david.horwitz@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39790
+
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+From: stephen.marquard@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39796
+
+From stephen.marquard@uct.ac.za Sat Jan  5 09:30:00 2008
+From: stephen.marquard@uct.ac.za
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39797
+
+From gsilver@umich.edu Fri Jan  4 10:05:32 2008
+From: gsilver@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39784
+
+From gsilver@umich.edu Fri Jan  4 10:20:18 2008
+From: gsilver@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39785
+
+From gsilver@umich.edu Fri Jan  4 10:35:55 2008
+From: gsilver@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39786
+
+From zqian@umich.edu Fri Jan  4 13:05:32 2008
+From: zqian@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39792
+
+From zqian@umich.edu Fri Jan  4 13:20:47 2008
+From: zqian@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39793
+
+From zqian@umich.edu Sat Jan  5 11:05:32 2008
+From: zqian@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39794
+
+From zqian@umich.edu Sat Jan  5 11:20:33 2008
+From: zqian@umich.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39795
+
+From gopal.ramasammycook@gmail.com Fri Jan  4 07:02:32 2008
+From: gopal.ramasammycook@gmail.com
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39772
+
+From antranig@caret.cam.ac.uk Fri Jan  4 09:05:32 2008
+From: antranig@caret.cam.ac.uk
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39781
+
+From cwen@iupui.edu Fri Jan  4 08:05:32 2008
+From: cwen@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39776
+
+From cwen@iupui.edu Fri Jan  4 08:20:15 2008
+From: cwen@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39777
+
+From cwen@iupui.edu Fri Jan  4 08:35:47 2008
+From: cwen@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39778
+
+From cwen@iupui.edu Sat Jan  5 09:00:12 2008
+From: cwen@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39779
+
+From cwen@iupui.edu Sat Jan  5 09:14:16 2008
+From: cwen@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39780
+
+From rjlowe@iupui.edu Fri Jan  4 09:20:45 2008
+From: rjlowe@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39782
+
+From rjlowe@iupui.edu Fri Jan  4 09:35:22 2008
+From: rjlowe@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39783
+
+From wagnermr@iupui.edu Fri Jan  4 12:05:32 2008
+From: wagnermr@iupui.edu
+To: source@collab.sakaiproject.org
+Subject: [sakai] svn commit: r39791
