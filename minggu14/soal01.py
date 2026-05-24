@@ -15,7 +15,6 @@ for kategori, apps in data_aplikasi.items():
     print(f"{kategori}: {apps}")
 
 semua_set = list(data_aplikasi.values())
-
 muncul_semua = semua_set[0]
 for s in semua_set[1:]:
     muncul_semua = muncul_semua & s
