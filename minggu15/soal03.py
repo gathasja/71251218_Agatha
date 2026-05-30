@@ -11,7 +11,6 @@ try:
         n = n - 1
     
     hasil = deret(n)
-    
     print(f"deret ganjil: ", end="")
     for i in range(1, n + 1, 2):
         if i < n:
